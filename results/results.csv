@@ -1,0 +1,13 @@
+Structure,Input,Elements,Insert_ms,Search_ms,Delete_ms
+BST,Random,100,0.141,0.028,0.030
+BST,Sorted,100,0.062,0.040,0.015
+HashTable,Random,100,0.066,0.030,0.014
+HashTable,Collisions,100,0.102,0.059,0.033
+BST,Random,1000,0.111,0.093,0.135
+BST,Sorted,1000,3.956,1.637,0.039
+HashTable,Random,1000,0.199,0.095,0.053
+HashTable,Collisions,1000,1.362,1.372,0.646
+BST,Random,10000,2.184,1.221,1.720
+BST,Sorted,10000,489.558,177.365,0.137
+HashTable,Random,10000,1.226,0.794,0.374
+HashTable,Collisions,10000,147.196,132.532,94.843
